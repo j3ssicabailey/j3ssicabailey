@@ -1,5 +1,7 @@
 👋 Hi, I'm Jess (@j3ssicabailey)
+
 🌍 Based in: Sevilla, Spain
+
 💻 Career change: Former Academic Manager now pursuing a career in tech
 
 🚀 Currently Learning
