@@ -1,11 +1,11 @@
 👋 Hi, I'm Jess (@j3ssicabailey)
-- 🌍 Based in: Sevilla, Spain
-- 💻 Career change: Former Academic Manager now pursuing a career in tech
+🌍 Based in: Sevilla, Spain
+💻 Career change: Former Academic Manager now pursuing a career in tech
 
 🚀 Currently Learning
 - Fullstack Web Development with ConquerBlocks
 - JavaScript and CSS frameworks
-- 
+  
 🛠 Skills & Tools
 - Languages: Python, SQL, HTML, CSS (Tailwind Framework)
 - Tools: VS Code, SQL Workbench, Linux terminal, Git
