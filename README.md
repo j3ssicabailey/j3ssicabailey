@@ -1,11 +1,11 @@
-<h1 align="center">¡Hola! 👋 I'm Jess</h1>
+<h1 align="center">¡Hey! 👋 I'm Jess</h1>
 
 ## 🚀 About Me
 
 ```javascript
 const jess = {
     role: "Full Stack Developer in training",
-    location: "British expat in Sevilla, Spain 🇬🇧🇪🇸",
+    location: "British based in Sevilla, Spain 🇬🇧🇪🇸",
     background: "Academic Management",
     languages: {
         programming: ["JavaScript", "Python", "SQL"],
@@ -19,18 +19,38 @@ const jess = {
 
 <div align="center">
 
-**Frontend**  
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+### **Frontend**  
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+    </a>
+</div>
 
-**Backend**  
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org)
-[![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com)
+### **Backend**  
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
+    <a href="https://www.python.org">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+    </a>
+    <a href="https://www.mysql.com">
+        <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+    </a>
+</div>
 
-**Frameworks**  
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)](https://getbootstrap.com)
-[![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)](https://tailwindcss.com)
+### **Frameworks**  
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
+    <a href="https://getbootstrap.com">
+        <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
+    </a>
+    <a href="https://tailwindcss.com">
+        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+    </a>
+</div>
 
 </div>
 
@@ -38,42 +58,53 @@ const jess = {
 
 <div align="center">
 
-**Development**  
-[![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com)
-[![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)](https://www.npmjs.com)
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)](https://www.linux.org)
+### **Development**  
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
+    <a href="https://code.visualstudio.com">
+        <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
+    </a>
+    <a href="https://www.npmjs.com">
+        <img src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white" />
+    </a>
+    <a href="https://www.linux.org">
+        <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+    </a>
+</div>
 
-**Version Control**  
-[![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com)
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com)
+### **Version Control**  
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
+    <a href="https://git-scm.com">
+        <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+    </a>
+    <a href="https://github.com">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+    </a>
+    <a href="https://www.mysql.com">
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+    </a>
+</div>
 
-**Design**  
-[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)](https://www.figma.com)
+### **Design**  
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
+    <a href="https://www.figma.com">
+        <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+    </a>
+</div>
 
 </div>
+
 
 ## 🌱 Current Learning Journey
 
-### Full Stack Development
-- Building responsive web applications with modern JavaScript
-- Creating RESTful APIs and understanding backend architecture
-- Mastering React.js fundamentals and component lifecycle
-- Exploring Node.js and Express.js for server-side development
-
-### Professional Development
-- Contributing to open-source projects
-- Building a portfolio of personal projects
-- Practicing data structures and algorithms
-- Learning software development best practices and clean code principles
+- Developing full-stack web applications with ConquerBlocks: working with JavaScript, HTML, CSS, and exploring backend APIs.
+- Hands-on projects: creating web pages, scripts, and learning through real-world applications.
+- Attending industry events to stay up-to-date with tech trends and best practices.
+- Continuously improving coding skills through personal projects and development challenges.
 
 ## 📊 GitHub Stats
 
-<div align="center">
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=j3ssicabailey&show_icons=true&theme=dark)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=j3ssicabailey&theme=dark)](https://git.io/streak-stats)
-
-</div>
 
 ## 🤝 Let's Connect!
 
